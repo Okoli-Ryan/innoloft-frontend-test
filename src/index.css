@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pill {
+    @apply bg-gray-200 rounded-full flex items-center gap-2 p-1.5
+}
